@@ -1,6 +1,6 @@
 #!/bin/bash
 
-START="2026-02-01"
+START="2026-03-01"
 END="2026-05-04"
 
 current=$START
